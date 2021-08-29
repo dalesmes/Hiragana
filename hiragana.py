@@ -10,3 +10,4 @@ answer = ""
 while answer.lower() != 'exit':
 	Fun_hiraganas() 
 	answer = input("Type exit if you want to leave")
+print("bye")
